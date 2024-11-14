@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - logic
+  - music
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - birb
+  - Water
+  - UI
+  - bg
+  - clouds
+  - pipes
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: bg
+    uniqueID: 823789809
+    locked: 0
+  - name: clouds
+    uniqueID: 2256007169
+    locked: 0
+  - name: pipes
+    uniqueID: 1240783397
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
